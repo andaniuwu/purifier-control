@@ -215,8 +215,8 @@ ADJUSTMENTS PER INSTALLATION:
 //   The LWLP5000 chip uses I2C address 0x00 (confirmed in DFRobot official example).
 //   This is an unusually low address – do NOT confuse it with the I2C general-call
 //   address (also 0x00 in some specs).  The DFRobot_LWLP library handles it correctly.
-#define I2C_SDA_PIN          8     // GPIO8  – Wire SDA (OLED + pressure sensor)
-#define I2C_SCL_PIN          9     // GPIO9  – Wire SCL (OLED + pressure sensor)
+#define I2C_SDA_PIN          9     // GPIO9  – Wire SDA (OLED + pressure sensor)
+#define I2C_SCL_PIN          8     // GPIO8  – Wire SCL (OLED + pressure sensor)
 #define OLED_I2C_ADDR        0x3C  // SSD1306 7-bit address  (datasheet shows 0x78 = 8-bit)
 #define PRESSURE_I2C_ADDR    0x00  // SEN0343 LWLP5000 7-bit address (fixed, per DFRobot)
 
