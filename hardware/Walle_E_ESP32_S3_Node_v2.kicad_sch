@@ -13585,7 +13585,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ESP32-S3-DEVKITC-1-N16R8V footprint:XCVR_ESP32-S3-DEVKITC-1-N16R8V"
+		(property "Footprint" "ESP32-S3-DEVKITC-1-N16R8V:XCVR_ESP32-S3-DEVKITC-1-N16R8V"
 			(at 200.66 73.66 0)
 			(effects
 				(font
@@ -15644,7 +15644,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RAC05-05SK_schematic:CONV_RAC05-05SK"
+		(property "Footprint" "RAC05-05SK:CONV_RAC05-05SK"
 			(at 142.24 27.94 0)
 			(effects
 				(font
@@ -15961,7 +15961,7 @@
 				)
 			)
 		)
-		(property "Footprint" "RA-02_LORA footprint:MODULE_RA-02_LORA"
+		(property "Footprint" "RA-02_LORA:MODULE_RA-02_LORA"
 			(at 54.61 184.15 0)
 			(effects
 				(font

@@ -554,7 +554,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "C:/Users/andani.lopez/KiCad projects/Wall_E_ESP32_Node/Wall_E_ESP32_Node_Gerber",
+      "plot": "../Walle_E_ESP32_S3_Node_v2 Gerber/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "../Wall_E_ESP32_Node_Diagram.step",
