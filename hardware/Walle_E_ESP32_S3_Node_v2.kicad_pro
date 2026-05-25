@@ -62,14 +62,6 @@
         [
           "courtyards_overlap|155185000|55145000|7802020c-7709-4c08-b131-d5d0dd15f16b|f0f9444f-7eff-46de-8091-bc852766e337",
           ""
-        ],
-        [
-          "silk_overlap|129540000|55390000|057e0c20-a583-40f0-a83f-8e5a32a56767|64a07c52-e1cc-4eb3-82c6-f6540f5649e4",
-          ""
-        ],
-        [
-          "silk_overlap|154940000|55390000|64a07c52-e1cc-4eb3-82c6-f6540f5649e4|88a83049-ee56-415c-a128-5841ca5dc885",
-          ""
         ]
       ],
       "meta": {
@@ -515,7 +507,7 @@
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 1,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-        "track_width": 1.5,
+        "track_width": 0.5,
         "via_diameter": 0.8,
         "via_drill": 0.4
       },
